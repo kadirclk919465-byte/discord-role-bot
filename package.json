@@ -1,0 +1,12 @@
+{
+  "name": "tsc-role-bot",
+  "version": "1.0.0",
+  "description": "Discord cross-server role bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
